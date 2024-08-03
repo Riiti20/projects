@@ -1,5 +1,10 @@
-p{
-    font-size: 20px;
-    color: red;
-    background-color: blue;
+body{
+    background-color: #791835;
+}
+
+h1{
+    font-size: 50px;
+    color: #ff6b6b;
+    text-align: center;
+    /*ackground-color: blue; */
 }
